@@ -1,0 +1,295 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Manikandan Muthukrishnan
+    tagline: Senior Automation Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: sashthamanik@gmail.com
+    timezone: Asia/Indian Standard Time (IST)
+    citizenship: Indian
+    #website: blog.webjeda.com #do not add http://
+    linkedin: sashthamanik@gmail.com
+    #xing: sashthamanik
+    github: sashthamanik
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: sashthamanik #http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Tamil
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+
+    interests:
+      title: Interests
+      info:
+        - item: Climbing / Swimming
+          link:
+
+        - item: Silambam
+          link:
+
+        - item: Gym
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+        • Highly skilled Infra Automation and Cloud Integration Specialist with a focus on orchestrator tools, RPA workflows, and process automation across various industries
+
+education:
+    title: Education
+    info:
+      - degree: BE in Computer Science
+        university: Anna University
+        time: 2012 - 2015
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            • Database Management Systems • Operating Systems • Artificial Intelligence
+            • Object-oriented Programming • Web Technology • Data Structures
+      - degree: Diploma in Computer science
+        university: Tamilnadu polytechnic college (autonomous)
+        time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+experiences:
+    title: Experiences
+    info:
+      - role: Senior Engineer
+        time: Dec 2022 - Present
+        company: Blueally Infotech (India) Pvt. Ltd., Chennai, India
+        details: |          
+            -	Workato recipes are designed around 40+ (end-to-end) automations. Workflows are 
+                - Bi-Directional Sync: Creating leads in SFDC and sync with Netsuite, Xero, and Okta 
+                - Purchase Order Status: This helps to automate real-time sync between SDFC and Xero for invoice reports.
+                - Workbot approval process: automated process of purchase order confirmation in SDFC to send notification to Slack channel to get approval from owner.
+            -	PCSA Automation (Win/Linux) Provisioning 
+                - Windows provisioning via VRO workflow / helps to enable Mssql installation and configuration / integration with Hashicorp vault to get the credentials. 
+                - Linux provisioning via Ansible / Helps to enable Apache, MQ server installation and configuration / Enable the creation of local account / integrating with run deck & Gitlab (CICD) pipelines
+            - Tools / Workato, Percolate, AEM, MSSQL, PowerShell, Jenkins, Ansible and Grafana.
+      - role: Senior Software Engineer
+        time: Jul 2021 - Nov 2022
+        company: Mphasis, Bangalore, India
+        details: |
+            -	PCSA Automation (Win/Linux) Provisioning 
+                - Windows provisioning via VRO workflow / helps to enable Mssql installation and configuration / integration with Hashicorp vault to get the credentials 
+                - Linux provisioning via Ansible / Helps to enable Apache, MQ server installation and configuration / Enable the creation of local account / integrating with run deck & Gitlab (CICD) pipelines.
+            -	Workato recipes are designed around 40+ (end-to-end) automations. Workflows are
+                - Bi-Directional Sync: Creating leads in SFDC and sync with Netsuite, Xero, and Okta. 
+                - Purchase Order Status: This helps to automate real-time sync between SDFC and Xero for invoice reports
+                - Workbot approval process: automated process of purchase order confirmation in SDFC to send notification to Slack channel to get approval from owner
+            - Tools / Workato, Salesforce(sfdc), Xero, Rundeck, Hashicorp Vault, Ansible, Molecule Module, Docker Container, Nautobot, Coupa, Snowflake, Slack, Experian, Okta, Zoominfo, Netsuite, Shopify, MailChimp, Powershell, Python.Workato, Salesforce(sfdc), Xero, Rundeck, Hashicorp Vault, Ansible, Molecule Module, Docker Container, Nautobot, Coupa, Snowflake, Slack, Experian, Okta, Zoominfo, Netsuite, Shopify, MailChimp, Powershell, Python.
+      - role: Specialist
+        time: Oct 2021 - Jul 2021
+        company: HCL Technologies, Madurai, India
+        details: |
+            -	RPA workflows are designed around 60+ (end-to-end) automation steps. It was reduced to 3,000+ hours a year. Workflows are, 
+                - User Onboarding Process/Off-boarding Accounts 
+                - CISCO Jabber User Provisioning, Report Phishing, and SonarQube Automation.
+            -	Service desk frame work (SDFW):
+                - Led the team and design the web application one-click solution tool. It helps to password reset and unlock the account in AD, and in parallel, it will create the Service Now incident with the respective user details. With the help of this tool, agents can perform software installation. A self-service script 50+ has been added to this tool. Store the record details using MSSQL.
+            -	Unified Provisioning Application (UPA):
+                - Led the team and design with the help of Windows PowerShell. The GAM team is able to perform all AD and Snow status related activities. Around 35+ use cases have been added. Store the record details using MSSQL.
+            - Self-service Portal:    
+                - Led the team and A well-designed web application helps to add and remove users from Gsuite PDL in both single and bulk. Reset the AD password. Store the record details using MongoDB.
+            - Optibot (HCL Tool):
+                - Workbot approval process: automated process of purchase order confirmation in SDFC to send notification to Slack channel to get approval from owner
+            - OneDrive Migration tool:
+                - Led the team and develop a C# application to migrate local files into one drive.
+            - AWS Connect:
+                - designed the contact workflow to get the details for the password reset and unlock-related IVR calls. Developed a Python function to create the Service Now incident for this.
+            - Tools / Workato, Air Watch, Workday, GitHub, Okta, Google Script, GSuite, Gmail, Google Sheet, Box, PowerShell, Ruby, VB Script, MS SQL, REST APIs, IIS, Pulse Secure and CUCM.
+      - role: Senior Analyst
+        time: Oct 2018 - Oct 2020
+        company: HCL Technologies, Madurai, India
+        details: |
+            -	AD Portal 
+                - Led the team and developed a web-based application to get reports on AD Health Check, AD User List, AD Expire Report, AD Computers, AD Group Members, Server Info, GPOS, ADHOC Scripts, Add User, and Add Group. 
+            -	Automatic ticket dispatcher (ATD): 
+                - design a high-load script. Scheduled as a job and based on the agent's availability It helps to assign the open ticket to an available user automatically. E2E automation script. Reduce the SLA breach. 
+            - Tools / Full Stack, Active Directory, PHP, HTML5, Bootstrap, JavaScript, MYSQL, POWERSHELL, Service now API, Skype Module, SCCM, CAITPAM.
+      - role: Analyst
+        time: Sep 2016 - Oct 2018
+        company: HCL Technologies, Madurai, India
+        details: |
+            -	WinBot Tool:  
+                - Designed a web portal to get the status of the available server. start or stop the services from the portal, be able to get server network adaptor details, and decommission details. Server utilisation report Able to store and download the script from this portal. 
+            -	Self-Service Script Repo
+                - Lead the team and develop semi-automatic PS scripts for around 270+ in the Infra domain (AD, GAM, SD, Network, Unix & DB). This script helps reduce AHT. 
+            - Tools / Full Stack, PHP, HTML5, Bootstrap, JavaScript, MYSQL, POWERSHELL, Active directory, Outlook
+      - role: Web Developer
+        time: Jul 2015 - Jul 2016
+        company: Bluewarm Animation Studio, Madurai, India
+        details: |
+            -	Custom Ecommerce (CMS): I have designed my own CMS for news reading from the end user's perspective and posting the article from the administrator's perspective. Which is able to perform CRUD operations, text formatting, and gallery features. Keeping the article URL short, including the primary keyword, and making the URL readable can also significantly improve your search rankings 
+            - Tools / PHP, HTML5, Bootstrap, JavaScript, MYSQL, TinyMCE.
+
+
+certifications:
+      title: Certifications
+      list:
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Details about cert. Lorem ipsum dolor sit amet, consectetur 
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh. 
+            Aenean fermentum, felis vulputate suscipit accumsan, 
+            sem enim bibendum augue, sed convallis arcu lacus at dui. 
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
+            Praesent venenatis erat non augue suscipit consectetur. 
+            
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
+            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at. 
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur 
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh. 
+            Aenean fermentum, felis vulputate suscipit accumsan, 
+            sem enim bibendum augue, sed convallis arcu lacus at dui. 
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
+            Praesent venenatis erat non augue suscipit consectetur. 
+        
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Workato and Integration
+        level: 98%
+
+      - name: Powershell Automation
+        level: 98%
+
+      - name: Python
+        level: 98%
+
+      - name: Orchestration Tools
+        level: 95%
+
+      - name: Servicenow API
+        level: 85%
+
+      - name: REST Web Services
+        level: 75%
+
+      - name: Team Handling
+        level: 80%        
+
+      - name: Technical Documentation
+        level: 95%        
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
