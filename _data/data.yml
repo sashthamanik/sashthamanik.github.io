@@ -224,7 +224,15 @@ certifications:
           credentialid: 05d6e8d930a3
           credentialurl: www.hackerrank.com/certificates/05d6e8d930a3
           credentialname: Python
-          details:                  
+          details:    
+        - name: Puppet - PE101,PE201 & PE301
+          start: Jul, 2023
+          end: 
+          organization: Puppet
+          credentialid: 
+          credentialurl: credentials.workato.com/profile/manikandanm485086/wallet#gs.2g4bzd
+          credentialname: Puppet
+          details:                           
 skills:
     title: Skills &amp; Proficiency
 
