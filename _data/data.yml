@@ -16,8 +16,8 @@ sidebar:
     email: sashthamanik@gmail.com
     timezone: Asia/Indian Standard Time (IST)
     citizenship: Indian
-    #website: blog.webjeda.com #do not add http://
-    linkedin: sashthamanik@gmail.com
+    #website: blog.com #do not add http://
+    linkedin: sashthamanik
     #xing: sashthamanik
     github: sashthamanik
     #telegram: # add your nickname without '@' sign
@@ -157,112 +157,74 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-        
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        - name: Workato Automation Pro I 
+          start: May 25, 2021
+          end: 
+          organization: workato
+          credentialid: m3g6ksfa8hdd
+          credentialurl: verify.skilljar.com/c/m3g6ksfa8hdd
+          credentialname: Automation Pro I
+          details:  
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        - name: Workato Automation Pro II 
+          start: May 25, 2021
+          end: 
+          organization: workato
+          credentialid: unsc6r3tdrxh
+          credentialurl: verify.skilljar.com/c/unsc6r3tdrxh
+          credentialname: Automation Pro II
+          details:  
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        - name: Workato Automation Pro III 
+          start: Jan, 30 2023
+          end: Jan, 30 2025
+          organization: workato
+          credentialid: jx6ubbpbp4ig
+          credentialurl: verify.skilljar.com/c/jx6ubbpbp4ig
+          credentialname: Automation Pro III
+          details:  
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        - name: Workato Automation Enterprise Automation
+          start: Jun 28, 2023
+          end: Jun 28, 2025
+          organization: workato
+          credentialid: 76549815
+          credentialurl: credentials.workato.com/e91c4f09-2726-4ac5-893d-6e552ece3041#gs.2fzaxs
+          credentialname: Enterprise Automation
+          details:  
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        - name: SnapLogic Certified Enterprise Automation Professional
+          start: Oct, 2022
+          end: 
+          organization: SnapLogic
+          credentialid: e82fipj4z6x4
+          credentialurl: verify.skilljar.com/c/e82fipj4z6x4
+          credentialname: Enterprise Automation Professional
+          details:           
+        - name: Getting started with Docker 
+          start: Nov, 2022
+          end: 
+          organization: Simplilearn
+          credentialid: IDLHUIehDub
+          credentialurl: simpli-web.app.link/e/IDLHUIehDub
+          credentialname: Docker
+          details:            
+        - name: Getting started with Ansible 
+          start: Dec, 2022
+          end: 
+          organization: Simplilearn
+          credentialid: zyQROVhgUvb
+          credentialurl: simpli-web.app.link/e/zyQROVhgUvb
+          credentialname: Ansible
+          details:           
+        - name: Python 
+          start: Nov, 2022
+          end: 
+          organization: Simplilearn
+          credentialid: 05d6e8d930a3
+          credentialurl: www.hackerrank.com/certificates/05d6e8d930a3
+          credentialname: Python
+          details:                  
 skills:
     title: Skills &amp; Proficiency
 
@@ -274,9 +236,9 @@ skills:
         level: 98%
 
       - name: Python
-        level: 98%
+        level: 90%
 
-      - name: Orchestration Tools
+      - name: Cloud & Orchestration Tools
         level: 95%
 
       - name: Servicenow API
@@ -285,6 +247,9 @@ skills:
       - name: REST Web Services
         level: 75%
 
+      - name: Stakeholder Management
+        level: 80%        
+
       - name: Team Handling
         level: 80%        
 
@@ -292,4 +257,4 @@ skills:
         level: 95%        
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed  by <i class="fas fa-heart"></i> by <a href="https://github.com/sashthamanik/" target="_blank" rel="nofollow">sashthamanik</a>
