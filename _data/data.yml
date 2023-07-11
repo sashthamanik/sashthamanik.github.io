@@ -100,19 +100,21 @@ experiences:
         time: Jul 2021 - Nov 2022
         company: Mphasis, Bangalore, India
         details: |
-            -	PCSA Automation (Win/Linux) Provisioning 
-                - Windows provisioning via VRO workflow / helps to enable Mssql installation and configuration / integration with Hashicorp vault to get the credentials 
-                - Linux provisioning via Ansible / Helps to enable Apache, MQ server installation and configuration / Enable the creation of local account / integrating with run deck & Gitlab (CICD) pipelines.
-            -	Workato recipes are designed around 40+ (end-to-end) automations. Workflows are
-                - Bi-Directional Sync: Creating leads in SFDC and sync with Netsuite, Xero, and Okta. 
-                - Purchase Order Status: This helps to automate real-time sync between SDFC and Xero for invoice reports
-                - Workbot approval process: automated process of purchase order confirmation in SDFC to send notification to Slack channel to get approval from owner
-            - Tools / Workato, Salesforce(sfdc), Xero, Rundeck, Hashicorp Vault, Ansible, Molecule Module, Docker Container, Nautobot, Coupa, Snowflake, Slack, Experian, Okta, Zoominfo, Netsuite, Shopify, MailChimp, Powershell, Python.Workato, Salesforce(sfdc), Xero, Rundeck, Hashicorp Vault, Ansible, Molecule Module, Docker Container, Nautobot, Coupa, Snowflake, Slack, Experian, Okta, Zoominfo, Netsuite, Shopify, MailChimp, Powershell, Python.
+            -	FSlogix Automation Tool  
+                - led the team and designed various processes to manage the user profile and O365. 
+                - This is implemented FSlogix Automation Tool for around 90K users &
+Grafana dashboard.
+            -	Grafana dashboard 
+                - To build the dynamic GUI dashboard for various DB servers. 
+            - RPA workflow designed around end-to-end automation Workflows are,
+                -	Share percolate assets to teams; taxonomy migration; MSSQL Lit server connection creation
+                -	Metadata-based title update in the campaign
+            - Tools / Workato, Percolate, AEM, MSSQL, PowerShell, Jenkins, Ansible and Grafana.
       - role: Specialist
         time: Oct 2021 - Jul 2021
         company: HCL Technologies, Madurai, India
         details: |
-            -	RPA workflows are designed around 60+ (end-to-end) automation steps. It was reduced to 3,000+ hours a year. Workflows are, 
+            -	RPA workflows are designed around 60+ (end-to-end) automation steps. It was reduced to 3,000+ hours per month. Workflows are, 
                 - User Onboarding Process/Off-boarding Accounts 
                 - CISCO Jabber User Provisioning, Report Phishing, and SonarQube Automation.
             -	Service desk frame work (SDFW):
@@ -121,7 +123,7 @@ experiences:
                 - Led the team and design with the help of Windows PowerShell. The GAM team is able to perform all AD and Snow status related activities. Around 35+ use cases have been added. Store the record details using MSSQL.
             - Self-service Portal:    
                 - Led the team and A well-designed web application helps to add and remove users from Gsuite PDL in both single and bulk. Reset the AD password. Store the record details using MongoDB.
-            - Optibot (HCL Tool):
+            - Optibot (HCL auto healing Tool):
                 - Workbot approval process: automated process of purchase order confirmation in SDFC to send notification to Slack channel to get approval from owner
             - OneDrive Migration tool:
                 - Led the team and develop a C# application to migrate local files into one drive.
@@ -258,7 +260,7 @@ projects:
 
       - title: Treebuddy Organiser (HCL Foundation)
         link: "#"
-        tagline: "This is social activity we can "
+        tagline: "This is environmental we can "
 
 skills:
     title: Skills &amp; Proficiency
