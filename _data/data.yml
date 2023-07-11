@@ -26,8 +26,8 @@ sidebar:
     #twitter: '@webjeda'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
-    #goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: sashthamanik #http://www.africau.edu/images/default/sample.pdf
+    goodreads: sashthamanik # Number-Username, e.g. 123456-alandoe
+    pdf: https://drive.google.com/file/d/1t8eDgGAtakpK_uXiTPZwWvZrd4gk7nQl/view?usp=sharing
 
     languages:
       title: Languages
@@ -236,10 +236,7 @@ certifications:
           details:                           
 projects:
     title: Achievements
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
       - title: HCL OInfinity Award
         link: "#hook"
