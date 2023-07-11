@@ -102,14 +102,13 @@ experiences:
         details: |
             -	FSlogix Automation Tool  
                 - led the team and designed various processes to manage the user profile and O365. 
-                - This is implemented FSlogix Automation Tool for around 90K users 
-Grafana dashboard.
+                - This FSlogix Automation Tool implemented around 90K users.
             -	Grafana dashboard 
                 - To build the dynamic GUI dashboard for various DB servers. 
             - RPA workflow designed around end-to-end automation Workflows are,
                 -	Share percolate assets to teams; taxonomy migration; MSSQL Lit server connection creation
                 -	Metadata-based title update in the campaign
-            - Tools / Workato, Percolate, AEM, MSSQL, PowerShell, Jenkins, Ansible and Grafana.
+            - Tools / Workato, MSSQL, PowerShell,Percolate, AEM, Jenkins, Ansible and Grafana.
       - role: Specialist
         time: Oct 2021 - Jul 2021
         company: HCL Technologies, Madurai, India
@@ -124,11 +123,11 @@ Grafana dashboard.
             - Self-service Portal:    
                 - Led the team and A well-designed web application helps to add and remove users from Gsuite PDL in both single and bulk. Reset the AD password. Store the record details using MongoDB.
             - Optibot (HCL auto healing Tool):
-                - Workbot approval process: automated process of purchase order confirmation in SDFC to send notification to Slack channel to get approval from owner
+                - Developed and deployed, 50+ VBScript solutions to this tool. The use case has added as auto-healing and a one-click solution.
             - OneDrive Migration tool:
-                - Led the team and develop a C# application to migrate local files into one drive.
+                - Led the team and develop a C# GUI application to migrate local files into one drive.
             - AWS Connect:
-                - designed the contact workflow to get the details for the password reset and unlock-related IVR calls. Developed a Python function to create the Service Now incident for this.
+                - Designed the contact workflow to get the details for the password reset and unlock-related IVR calls. Developed a Python function to create the Service Now incident for this.
             - Tools / Workato, Air Watch, Workday, GitHub, Okta, Google Script, GSuite, Gmail, Google Sheet, Box, PowerShell, Ruby, VB Script, MS SQL, REST APIs, IIS, Pulse Secure and CUCM.
       - role: Senior Analyst
         time: Oct 2018 - Oct 2020
@@ -259,8 +258,8 @@ projects:
         tagline: "Experience the future of delivery quality assurance at our exclusive event, where industry experts will share insights and best practices to ensure exceptional product delivery."
 
       - title: Treebuddy Organiser (HCL Foundation)
-        link: "#"
-        tagline: "This is environmental we can "
+        link: "www.linkedin.com/posts/anand-ganesan-13593a87_environment-teamwork-trees-activity-7076095745086423040-vTyO?utm_source=share&utm_medium=member_desktop"
+        tagline: "This is an environmentally-focused Tree Plantation activity. With the assistance of my Suvasam team (Madurai), we successfully planted over 500 trees and 3,000 palm seeds."
 
 skills:
     title: Skills &amp; Proficiency
