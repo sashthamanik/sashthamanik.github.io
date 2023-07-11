@@ -233,6 +233,33 @@ certifications:
           credentialurl: credentials.workato.com/profile/manikandanm485086/wallet#gs.2g4bzd
           credentialname: Puppet
           details:                           
+projects:
+    title: Achievements
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: HCL OInfinity Award
+        link: "#hook"
+        tagline: "Got recognized HCL OInfinity for overall efforts and contribution !! Thanks HCL & Thanks to my manager (Subash) :)"
+
+      - title: Broadcom Start Award
+        link: "#"
+        tagline: "This is regarding process automation. Broadcom recognized me to automated the very complex use-case in the Infra Domain. Thank Juries!!"
+
+      - title: Arivathon Lead (HCLTech)
+        link: "#"
+        tagline: "Discover the power of seamless technology integration at our product showcase event, where we will highlight innovative solutions that drive productivity and deliver exceptional user experiences."
+
+      - title: Singing in DQA valedictory function (HCLTech)
+        link: "#"
+        tagline: "Experience the future of delivery quality assurance at our exclusive event, where industry experts will share insights and best practices to ensure exceptional product delivery."
+
+      - title: Treebuddy Organiser (HCL Foundation)
+        link: "#"
+        tagline: "This is social activity we can "
+
 skills:
     title: Skills &amp; Proficiency
 
