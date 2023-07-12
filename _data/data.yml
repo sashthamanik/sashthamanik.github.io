@@ -125,7 +125,7 @@ experiences:
                 - Led the team and developed a web-based application to get reports on AD Health Check, AD User List, AD Expire Report, AD Computers, AD Group Members, Server Info, GPOS, ADHOC Scripts, Add User, and Add Group. 
             -	Automatic ticket dispatcher (ATD): 
                 - design a high-load script. Scheduled as a job and based on the agent's availability It helps to assign the open ticket to an available user automatically. E2E automation script. Reduce the SLA breach. 
-            - Tools / Full Stack, Active Directory, PHP, HTML5, Bootstrap, JavaScript, MYSQL, POWERSHELL, Service now API, Skype Module, SCCM, CAITPAM.
+            - Tools / Full Stack, Workato, Active Directory, PHP, HTML5, Bootstrap, JavaScript, MYSQL, POWERSHELL, Service now API, Skype Module, SCCM, CAITPAM.
       - role: Analyst
         time: Sep 2016 - Oct 2018
         company: HCL Technologies, Madurai, India
