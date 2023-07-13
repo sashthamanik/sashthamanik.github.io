@@ -83,7 +83,7 @@ experiences:
             -	PCSA Automation (Win/Linux) Provisioning 
                 - Windows provisioning via VRO workflow / helps to enable Mssql installation and configuration / integration with Hashicorp vault to get the credentials. 
                 - Linux provisioning via Ansible / Helps to enable Apache, MQ server installation and configuration / Enable the creation of local account / integrating with run deck & Gitlab (CICD) pipelines
-            - Tools / Workato, Percolate, AEM, MSSQL, PowerShell, Jenkins, Ansible and Grafana.
+            - Tools / Workato, Rundeck, Hashicorp Vault, Ansible, Salesforce(sfdc), Xero, Molecule testing, Docker Container, Nautobot, Coupa, Snowflake, Slack, Experian, Okta, Zoominfo, Netsuite, Shopify, MailChimp, Powershell, Python.
       - role: Senior Software Engineer
         time: Jul 2021 - Nov 2022
         company: Mphasis, Bangalore, India
