@@ -72,8 +72,15 @@ education:
 experiences:
     title: Experiences
     info:
+          - role: Senior Enterprise Architect
+        time: Aug 2023 - Present
+        company: Uniphore, IITM RESEARCH PARK, Kanagam, Tharamani, Chennai, Tamil Nadu 600113
+        details: |          
+            -	A Senior Enterprise Architect is responsible for aligning an organization’s technology strategy with its business goals. They design high-level IT architecture, ensure integration across systems, and guide the selection of technologies to support scalability, security, and performance. Their role includes collaborating with stakeholders, managing architecture roadmaps, setting standards, and leading digital transformation initiatives. They often mentor teams and oversee large, complex IT projects across the enterprise.                
+            - Tools / Automaiton, AI/ ML, ETL, Datawarehouse Administrator, Datagovernence
+      - role: Senior Software Engineer
       - role: Senior Engineer
-        time: Dec 2022 - Present
+        time: Dec 2022 - Aug 2023
         company: Blueally Infotech (India) Pvt. Ltd., Chennai, India
         details: |          
             -	Workato recipes are designed around 40+ (end-to-end) automations. Workflows are 
