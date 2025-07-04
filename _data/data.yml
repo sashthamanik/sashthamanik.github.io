@@ -265,32 +265,32 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Workato and Integration
+      - name: Workato and Could Integration
         level: 98%
 
-      - name: Powershell Automation
+      - name: Rivery (Dell Boomi), Snowflake adn Tableau
         level: 98%
 
-      - name: Python
+      - name: Python & Powershell Automation
         level: 90%
 
       - name: Cloud & Orchestration Tools
         level: 95%
 
-      - name: Servicenow API
-        level: 85%
+      - name: User Onboarding and Off boarding Automation (End to End)
+        level: 100%
 
       - name: REST Web Services
-        level: 75%
+        level: 94%
 
       - name: Stakeholder Management
-        level: 80%        
+        level: 95%        
 
       - name: Team Handling
-        level: 80%        
+        level: 91%        
 
-      - name: Technical Documentation
-        level: 95%        
+      - name: Process and Technical Documentation
+        level: 99%        
 
 footer: >
     Designed  by <i class="fas fa-heart"></i> by <a href="https://github.com/sashthamanik/" target="_blank" rel="nofollow">sashthamanik</a>
